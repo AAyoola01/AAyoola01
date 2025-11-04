@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 👋 Hi, I'm Alex Ayoola  
 
 💼 **Cybersecurity Analyst | System Analyst | IT Governance & Network Security**  
